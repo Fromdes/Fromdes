@@ -9,7 +9,7 @@
 
 ## 🛡️ About Me
 
-- 🎓 1st year Computer Programming student
+- 🎓 2st year Computer Programming student
 - 🔐 Focused on **defensive cybersecurity** (blue team)
 - 🐍 Building tools in **Python** on **Kali Linux**
 - 🎯 Goal: Cybersecurity specialist
