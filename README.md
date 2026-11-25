@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Samet 👋</h1>
 
 <p align="center">
-  <b>1st Year Computer Programming Student</b><br>
+  <b>2st Year Computer Programming Student</b><br>
   Passionate about Defensive Cybersecurity & Blue Team Operations
 </p>
 
